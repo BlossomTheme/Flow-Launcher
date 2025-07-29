@@ -1,4 +1,4 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for Flow Launcher
 
 ## Preview <!---Do not chang headers (Required for WebBuilder)-->
 ![](./screenshot01.png)
